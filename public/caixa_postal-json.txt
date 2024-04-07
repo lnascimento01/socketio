@@ -1,0 +1,26 @@
+[
+        {
+            "destinatario": "usuario1",
+            "remetente": "usuario3",
+            "data": "2024-03-25",
+            "hora": "09:30",
+            "mensagem": "Olá, aqui está o relatório que você pediu.",
+            "anexo": "./anexos/relatorio.pdf"
+        },
+        {
+            "destinatario": "usuario1",
+            "remetente": "usuario4",
+            "data": "2024-03-25",
+            "hora": "10:45",
+            "mensagem": "Oi, lembrei de algo importante que precisamos discutir.",
+            "anexo": ""
+        },
+        {
+            "destinatario": "usuario2",
+            "remetente": "usuario3",
+            "data": "2024-03-26",
+            "hora": "11:15",
+            "mensagem": "Você pode me ajudar com este problema?",
+            "anexo": "./anexos/problema.png"
+        }
+    ]

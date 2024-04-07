@@ -1,0 +1,32 @@
+[
+        {
+            "id": "1",
+            "nome": "usuario1",
+            "online": true,
+            "ultimo_acesso": "2024-03-26T08:30:00Z"
+        },
+        {
+            "id": "2",
+            "nome": "usuario2",
+            "online": false,
+            "ultimo_acesso": "2024-03-26T10:15:00Z"
+        },
+        {
+            "id": "3",
+            "nome": "usuario3",
+            "online": true,
+            "ultimo_acesso": "2024-03-26T11:45:00Z"
+        },
+        {
+            "id": "4",
+            "nome": "usuario4",
+            "online": true,
+            "ultimo_acesso": "2024-03-26T09:00:00Z"
+        },
+        {
+            "id": "5",
+            "nome": "usuario5",
+            "online": false,
+            "ultimo_acesso": "2024-03-26T08:00:00Z"
+        }
+    ]

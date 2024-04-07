@@ -1,0 +1,80 @@
+[
+    {
+        "participantes": [
+            "usuario1",
+            "usuario2"
+        ],
+        "mensagens": [
+            {
+                "remetente": "usuario1",
+                "destinatario": "usuario2",
+                "data": "2024-03-26",
+                "hora": "10:00",
+                "mensagem": "Ol\u00e1, tudo bem?",
+                "anexo": ".\/anexos\/anexo1.jpg",
+                "status": false
+            },
+            {
+                "remetente": "usuario2",
+                "destinatario": "usuario1",
+                "data": "2024-03-26",
+                "hora": "10:05",
+                "mensagem": "Sim, estou bem. E voc\u00ea?",
+                "anexo": ".\/anexos\/audio1.mp3",
+                "status": true
+            },
+            {
+                "remetente": "usuario1",
+                "destinatario": "usuario2",
+                "data": "2024-04-07",
+                "hora": "14:42",
+                "mensagem": "bom dia",
+                "anexo": null,
+                "status": true
+            }
+        ]
+    },
+    {
+        "participantes": [
+            "usuario3",
+            "usuario4"
+        ],
+        "mensagens": [
+            {
+                "remetente": "usuario3",
+                "destinatario": "usuario4",
+                "data": "2024-03-26",
+                "hora": "11:00",
+                "mensagem": "Bom dia!",
+                "anexo": "",
+                "status": false
+            },
+            {
+                "remetente": "usuario4",
+                "destinatario": "usuario3",
+                "data": "2024-03-26",
+                "hora": "11:01",
+                "mensagem": "Bom dia, como vai?",
+                "anexo": ".\/anexos\/anexo2.jpg",
+                "status": false
+            }
+        ]
+    },
+    {
+        "participantes": [
+            "usuario1",
+            "usuario3"
+        ],
+        "mensagens": [
+            {
+                "remetente": "usuario1",
+                "destinatario": "usuario3",
+                "data": "2024-04-07",
+                "hora": "14:49",
+                "mensagem": "oi Usu\u00e1rio 3",
+                "anexo": null,
+                "status": true
+            }
+        ]
+    }
+]
